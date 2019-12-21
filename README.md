@@ -1,2 +1,2 @@
 # Git_example
-This is my first git
+This is my first git program
